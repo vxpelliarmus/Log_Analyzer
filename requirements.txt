@@ -1,0 +1,8 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+gunicorn==23.0.0
+plotly==5.18.0
+pandas==2.2.3
+numpy==1.26.4
+user-agents==2.2.0
+python-dotenv==1.0.0
